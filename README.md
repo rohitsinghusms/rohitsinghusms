@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rohitsinghusms
-- 👀 I’m interested in automation and analytics
+- 👀 I’m interested in Automation and Analytics
 - 🌱 I’m currently learning Azure DevOps
 - 💞️ I’m looking to collaborate on Robotics Process Automation Projects
 - 📫 How to reach me rohitsinghusms@gmail.com
